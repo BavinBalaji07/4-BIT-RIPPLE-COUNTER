@@ -98,4 +98,5 @@ endmodule
 
 
 **RESULTS**
+
 Thus,the program for Bit-Ripple Counter is executed and verified with RTL and Timing Diagrams 
